@@ -1,0 +1,2 @@
+def Error():
+    return ("Error !!!")
